@@ -1,0 +1,1 @@
+A project from 2015 that examined the Dallas Stars 2014/15 NHL Season and Art Ross Trophy race through graphs. I pulled stats from HockeyReference.com and used d3 and related tools to display the data in a few (hopefully) insightful ways.

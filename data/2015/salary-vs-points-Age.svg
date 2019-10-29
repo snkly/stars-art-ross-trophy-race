@@ -1,0 +1,237 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" height="475" width="848">
+    <g>
+        <g transform="translate(0,440)" style="stroke-width: 1px; font-size: 10px; font-family: Arial,Helvetica;" class="x axis">
+            <g transform="translate(91.2,0)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" x2="0" y2="-400"></line>
+                <text style="text-anchor: middle;" dy=".71em" x="0" y="3">22</text>
+            </g>
+            <g transform="translate(193.60000000000002,0)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" x2="0" y2="-400"></line>
+                <text style="text-anchor: middle;" dy=".71em" x="0" y="3">24</text>
+            </g>
+            <g transform="translate(296,0)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" x2="0" y2="-400"></line>
+                <text style="text-anchor: middle;" dy=".71em" x="0" y="3">26</text>
+            </g>
+            <g transform="translate(398.4,0)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" x2="0" y2="-400"></line>
+                <text style="text-anchor: middle;" dy=".71em" x="0" y="3">28</text>
+            </g>
+            <g transform="translate(500.79999999999995,0)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" x2="0" y2="-400"></line>
+                <text style="text-anchor: middle;" dy=".71em" x="0" y="3">30</text>
+            </g>
+            <g transform="translate(603.1999999999999,0)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" x2="0" y2="-400"></line>
+                <text style="text-anchor: middle;" dy=".71em" x="0" y="3">32</text>
+            </g>
+            <g transform="translate(705.6,0)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" x2="0" y2="-400"></line>
+                <text style="text-anchor: middle;" dy=".71em" x="0" y="3">34</text>
+            </g>
+            <g transform="translate(808,0)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" x2="0" y2="-400"></line>
+                <text style="text-anchor: middle;" dy=".71em" x="0" y="3">36</text>
+            </g>
+            <path style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" d="M40,-400V0H808V-400" class="domain"></path>
+        </g>
+        <g transform="translate(40,0)" style="stroke-width: 1px; font-size: 10px; font-family: Arial,Helvetica;" class="y axis">
+            <g transform="translate(0,440)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" y2="0" x2="768"></line>
+                <text style="text-anchor: end;" dy=".32em" y="0" x="-3">5</text>
+            </g>
+            <g transform="translate(0,406.10169491525426)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" y2="0" x2="768"></line>
+                <text style="text-anchor: end;" dy=".32em" y="0" x="-3">10</text>
+            </g>
+            <g transform="translate(0,372.2033898305085)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" y2="0" x2="768"></line>
+                <text style="text-anchor: end;" dy=".32em" y="0" x="-3">15</text>
+            </g>
+            <g transform="translate(0,338.3050847457627)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" y2="0" x2="768"></line>
+                <text style="text-anchor: end;" dy=".32em" y="0" x="-3">20</text>
+            </g>
+            <g transform="translate(0,304.40677966101697)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" y2="0" x2="768"></line>
+                <text style="text-anchor: end;" dy=".32em" y="0" x="-3">25</text>
+            </g>
+            <g transform="translate(0,270.50847457627117)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" y2="0" x2="768"></line>
+                <text style="text-anchor: end;" dy=".32em" y="0" x="-3">30</text>
+            </g>
+            <g transform="translate(0,236.61016949152543)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" y2="0" x2="768"></line>
+                <text style="text-anchor: end;" dy=".32em" y="0" x="-3">35</text>
+            </g>
+            <g transform="translate(0,202.71186440677968)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" y2="0" x2="768"></line>
+                <text style="text-anchor: end;" dy=".32em" y="0" x="-3">40</text>
+            </g>
+            <g transform="translate(0,168.81355932203394)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" y2="0" x2="768"></line>
+                <text style="text-anchor: end;" dy=".32em" y="0" x="-3">45</text>
+            </g>
+            <g transform="translate(0,134.91525423728814)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" y2="0" x2="768"></line>
+                <text style="text-anchor: end;" dy=".32em" y="0" x="-3">50</text>
+            </g>
+            <g transform="translate(0,101.0169491525424)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" y2="0" x2="768"></line>
+                <text style="text-anchor: end;" dy=".32em" y="0" x="-3">55</text>
+            </g>
+            <g transform="translate(0,67.11864406779665)" style="opacity: 1;" class="tick">
+                <line style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" y2="0" x2="768"></line>
+                <text style="text-anchor: end;" dy=".32em" y="0" x="-3">60</text>
+            </g>
+            <path style="shape-rendering: crispedges; fill: none; stroke: rgb(204, 204, 204);" d="M768,40H0V440H768" class="domain"></path>
+        </g>
+        <g class="circle">
+            <circle r="14.55721710375249" transform="translate(142.4,412.8813559322034)" style="fill: rgb(247, 251, 235); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(142.4,412.8813559322034)">Jyrki Jokipakka</text>
+        </g>
+        <g class="circle">
+            <circle r="14.381330728380398" transform="translate(91.2,229.83050847457625)" style="fill: rgb(248, 252, 236); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(91.2,229.83050847457625)">John Klingberg</text>
+        </g>
+        <g class="circle">
+            <circle r="18.612663898097356" transform="translate(296,345.08474576271186)" style="fill: rgb(225, 236, 219); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(296,345.08474576271186)">Jason Demers</text>
+        </g>
+        <g class="circle">
+            <circle r="15.570868554006186" transform="translate(91.2,419.66101694915255)" style="fill: rgb(242, 248, 232); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(91.2,419.66101694915255)">Jamie Oleksiak</text>
+        </g>
+        <g class="circle">
+            <circle r="31.91077509606026" transform="translate(552,250.16949152542372)" style="fill: rgb(118, 165, 140); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(552,250.16949152542372)">Trevor Daley</text>
+        </g>
+        <g class="circle">
+            <circle r="29.544406560957942" transform="translate(808,304.40677966101697)" style="fill: rgb(141, 180, 157); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(808,304.40677966101697)">Shawn Horcoff</text>
+        </g>
+        <g class="circle">
+            <circle r="13.970992264820886" transform="translate(142.4,440)" style="fill: rgb(250, 253, 237); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(142.4,440)">Curtis McKenzie</text>
+        </g>
+        <g class="circle">
+            <circle r="39.080521950249306" transform="translate(244.8,40)" style="fill: rgb(27, 113, 85); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(244.8,40)">Jamie Benn</text>
+        </g>
+        <g class="circle">
+            <circle r="21.579625949054638" transform="translate(449.6,324.7457627118644)" style="fill: rgb(205, 223, 205); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(449.6,324.7457627118644)">Ryan Garbutt</text>
+        </g>
+        <g class="circle">
+            <circle r="13.761235429132025" transform="translate(500.79999999999995,365.4237288135593)" style="fill: rgb(251, 253, 238); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(500.79999999999995,365.4237288135593)">Patrick Eaves</text>
+        </g>
+        <g class="circle">
+            <circle r="20.894859043857636" transform="translate(142.4,256.9491525423729)" style="fill: rgb(210, 227, 208); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(142.4,256.9491525423729)">Cody Eakin</text>
+        </g>
+        <g class="circle">
+            <circle r="15.430138666919808" transform="translate(40,419.66101694915255)" style="fill: rgb(243, 248, 232); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(40,419.66101694915255)">Brett Ritchie</text>
+        </g>
+        <g class="circle">
+            <circle r="21.579625949054638" transform="translate(244.8,311.1864406779661)" style="fill: rgb(205, 223, 205); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(244.8,311.1864406779661)">Antoine Roussel</text>
+        </g>
+        <g class="circle">
+            <circle r="13.22229328508417" transform="translate(244.8,317.96610169491527)" style="fill: rgb(253, 255, 240); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(244.8,317.96610169491527)">Colton Sceviour</text>
+        </g>
+        <g class="circle">
+            <circle r="13.761235429132025" transform="translate(347.20000000000005,372.2033898305085)" style="fill: rgb(251, 253, 238); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(347.20000000000005,372.2033898305085)">Jordie Benn</text>
+        </g>
+        <g class="circle">
+            <circle r="23.20329847666479" transform="translate(603.1999999999999,433.22033898305085)" style="fill: rgb(194, 216, 196); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(603.1999999999999,433.22033898305085)">Travis Moen</text>
+        </g>
+        <g class="circle">
+            <circle r="37.36849138687524" transform="translate(449.6,263.728813559322)" style="fill: rgb(55, 126, 99); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(449.6,263.728813559322)">Alex Goligoski</text>
+        </g>
+        <g class="circle">
+            <circle r="17.063690288753897" transform="translate(705.6,297.62711864406776)" style="fill: rgb(234, 242, 226); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(705.6,297.62711864406776)">Vernon Fiddler</text>
+        </g>
+        <g class="circle">
+            <circle r="34.11338704121162" transform="translate(552,284.06779661016947)" style="fill: rgb(94, 150, 124); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(552,284.06779661016947)">Ales Hemsky</text>
+        </g>
+        <g class="circle">
+            <circle r="34.11338704121162" transform="translate(552,114.57627118644064)" style="fill: rgb(94, 150, 124); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(552,114.57627118644064)">Jason Spezza</text>
+        </g>
+        <g class="circle">
+            <circle r="40" transform="translate(142.4,53.5593220338983)" style="fill: rgb(0, 106, 78); fill-opacity: 0.9;"></circle>
+            <text dy="15" style="font-size: 10px; font-family: Arial,Helvetica;" text-anchor="middle" transform="translate(142.4,53.5593220338983)">Tyler Seguin</text>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(142.4,412.8813559322034)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(91.2,229.83050847457625)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(296,345.08474576271186)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(91.2,419.66101694915255)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(552,250.16949152542372)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(808,304.40677966101697)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(142.4,440)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(244.8,40)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(449.6,324.7457627118644)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(500.79999999999995,365.4237288135593)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(142.4,256.9491525423729)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(40,419.66101694915255)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(244.8,311.1864406779661)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(244.8,317.96610169491527)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(347.20000000000005,372.2033898305085)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(603.1999999999999,433.22033898305085)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(449.6,263.728813559322)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(705.6,297.62711864406776)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(552,284.06779661016947)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(552,114.57627118644064)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+        <g class="point">
+            <circle r="1" transform="translate(142.4,53.5593220338983)" style="fill: rgb(0, 0, 0);"></circle>
+        </g>
+    </g>
+</svg>

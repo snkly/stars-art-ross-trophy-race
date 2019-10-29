@@ -1,0 +1,114 @@
+<svg width="900" height="500" xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g transform="translate(20, 20)">
+        <g class="cell" transform="translate(0,382)">
+            <rect width="57" height="118" style="fill: rgb(236, 238, 237); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>727500: 9</title>
+            <text x="28.5" y="59" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Jyrki Jokipakka</text>
+        </g>
+        <g class="cell" transform="translate(715,0)">
+            <rect width="132" height="212" style="fill: rgb(237, 239, 238); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>710000: 36</title>
+            <text x="66" y="106" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">John Klingberg</text>
+        </g>
+        <g class="cell" transform="translate(57,163)">
+            <rect width="147" height="100" style="fill: rgb(216, 226, 220); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>1190000: 19</title>
+            <text x="73.5" y="50" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Jason Demers</text>
+        </g>
+        <g class="cell" transform="translate(0,273)">
+            <rect width="57" height="109" style="fill: rgb(232, 236, 233); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>832500: 8</title>
+            <text x="28.5" y="54.5" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Jamie Oleksiak</text>
+        </g>
+        <g class="cell" transform="translate(594,0)">
+            <rect width="121" height="212" style="fill: rgb(115, 164, 139); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>3500000: 33</title>
+            <text x="60.5" y="106" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Trevor Daley</text>
+        </g>
+        <g class="cell" transform="translate(204,116)">
+            <rect width="160" height="121" style="fill: rgb(136, 177, 156); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>3000000: 25</title>
+            <text x="80" y="60.5" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Shawn Horcoff</text>
+        </g>
+        <g class="cell" transform="translate(0,14)">
+            <rect width="57" height="68" style="fill: rgb(239, 240, 239); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>670000: 5</title>
+            <text x="28.5" y="34" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Curtis McKenzie</text>
+        </g>
+        <g class="cell" transform="translate(674,212)">
+            <rect width="173" height="288" style="fill: rgb(28, 118, 82); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>5250000: 64</title>
+            <text x="86.5" y="144" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Jamie Benn</text>
+        </g>
+        <g class="cell" transform="translate(57,263)">
+            <rect width="147" height="116" style="fill: rgb(198, 215, 205); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>1600000: 22</title>
+            <text x="73.5" y="58" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Ryan Garbutt</text>
+        </g>
+        <g class="cell" transform="translate(57,79)">
+            <rect width="147" height="84" style="fill: rgb(240, 241, 240); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>650000: 16</title>
+            <text x="73.5" y="42" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Patrick Eaves</text>
+        </g>
+        <g class="cell" transform="translate(477,0)">
+            <rect width="117" height="212" style="fill: rgb(202, 217, 209); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>1500000: 32</title>
+            <text x="58.5" y="106" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Cody Eakin</text>
+        </g>
+        <g class="cell" transform="translate(0,164)">
+            <rect width="57" height="109" style="fill: rgb(232, 236, 234); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>817500: 8</title>
+            <text x="28.5" y="54.5" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Brett Ritchie</text>
+        </g>
+        <g class="cell" transform="translate(204,0)">
+            <rect width="160" height="116" style="fill: rgb(198, 215, 205); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>1600000: 24</title>
+            <text x="80" y="58" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Antoine Roussel</text>
+        </g>
+        <g class="cell" transform="translate(57,379)">
+            <rect width="147" height="121" style="fill: rgb(242, 242, 242); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>600000: 23</title>
+            <text x="73.5" y="60.5" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Colton Sceviour</text>
+        </g>
+        <g class="cell" transform="translate(57,0)">
+            <rect width="147" height="79" style="fill: rgb(240, 241, 240); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>650000: 15</title>
+            <text x="73.5" y="39.5" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Jordie Benn</text>
+        </g>
+        <g class="cell" transform="translate(0,82)">
+            <rect width="57" height="82" style="fill: rgb(187, 208, 196); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>1850000: 6</title>
+            <text x="28.5" y="41" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Travis Moen</text>
+        </g>
+        <g class="cell" transform="translate(364,0)">
+            <rect width="113" height="212" style="fill: rgb(55, 129, 96); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>4800000: 31</title>
+            <text x="56.5" y="106" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Alex Goligoski</text>
+        </g>
+        <g class="cell" transform="translate(0,0)">
+            <rect width="57" height="14" style="fill: rgb(233, 236, 234); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>810000: 1</title>
+            <text x="28.5" y="7" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Patrick Nemeth</text>
+        </g>
+        <g class="cell" transform="translate(204,237)">
+            <rect width="160" height="126" style="fill: rgb(224, 231, 227); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>1000000: 26</title>
+            <text x="80" y="63" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Vernon Fiddler</text>
+        </g>
+        <g class="cell" transform="translate(204,363)">
+            <rect width="160" height="137" style="fill: rgb(93, 150, 122); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>4000000: 28</title>
+            <text x="80" y="68.5" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Ales Hemsky</text>
+        </g>
+        <g class="cell" transform="translate(364,212)">
+            <rect width="310" height="133" style="fill: rgb(93, 150, 122); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>4000000: 53</title>
+            <text x="155" y="66.5" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Jason Spezza</text>
+        </g>
+        <g class="cell" transform="translate(364,345)">
+            <rect width="310" height="155" style="fill: rgb(1, 111, 74); fill-opacity: 1; stroke: rgb(255, 255, 255);"></rect>
+            <title>5500000: 62</title>
+            <text x="155" y="77.5" dy=".35em" text-anchor="middle" style="font-size: 11px; font-family: Arial, Helvetica;">Tyler Seguin</text>
+        </g>
+    </g>
+</svg>

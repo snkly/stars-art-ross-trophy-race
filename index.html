@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Examining the Dallas Stars 2014/15 NHL Season and Art Ross Trophy race through graphs!">
+  <meta name="author" content="Sean K">
+  <title>Dallas Stars 2014/15 NHL Season</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.7.11/c3.min.css" rel="stylesheet" type="text/css">
+  <link href="css/styles.min.css" rel="stylesheet">
+</head>
+<body>
+<div class="hat"></div>
+<div class="container">
+  <h1>Dallas Stars 2014/15 NHL Season</h1>
+  <hr class="col-lg-12">
+  <section>
+    <div class="row">
+      <div class="col-lg-8">
+        <h2>Player production/value by Point Total and Salary</h2>
+          <p>The following Tree Map groups player <strong>Point Totals</strong> by size and position,
+            and paints a linear color scale onto each based on the players <strong>Salary (Darker color = Higher Salary)</strong>.
+            Hover over each square to display corresponding point total and salary.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-1">
+        <p>Least Points</p>
+      </div>
+      <div class="col-lg-10">
+        <object type="image/svg+xml" data="./data/2015/salary-vs-pts-treemap.svg" class="center-block">Your browser does not support SVG</object>
+      </div>
+      <div class="col-lg-1 y-align-b">
+        <p>Most Points</p>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="row">
+      <div class="col-lg-8">
+        <h2>Player production and value based on Point total, 'x' and Salary</h2>
+        <p>The following scatterplots examine player productivity and value by comparing <strong>Point Totals</strong> and <strong>Salary</strong> to <br>
+          <strong>Games Played (GP)</strong>, <strong>Average Time on Ice (ATOI)</strong>, <strong>Total Time on Ice (TOI)</strong>, and <strong>Age.</strong><br>
+          <strong>Salary</strong> amount is represented by size of bubble and by color. (largest salary = biggest, darkest bubble)</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-1 y-align">
+        <p>Points</p>
+      </div>
+      <div class="col-lg-10 text-center">
+        <h4>Point total based on <strong>Games Played (GP)</strong>, Salary</h4>
+        <object type="image/svg+xml" data="./data/2015/salary-vs-points-GP.svg">Your browser does not support SVG</object>
+        <p>Games Played</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2">
+          <p>Seguin, Benn, and Spezza top the charts in points. Each has played a majority
+            of the games this season (60, 70, 70), and they are the highest paid players on the team (1st, 2nd, 4th). 3rd in highest paid salary is Alex Goligoski,
+            who has played every game this season. Rookie superstar John Klingberg had a very productive season (36pts) and provides high value at his current salary.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-1 y-align">
+        <p>Points</p>
+      </div>
+      <div class="col-lg-10 text-center">
+        <h4>Point total based on <strong>Average Time on Ice (ATOI)</strong>, Salary</h4>
+        <object type="image/svg+xml" data="./data/2015/salary-vs-points-ATOI.svg" class="center-block">Your browser does not support SVG</object>
+        <p>Average Time on Ice (minutes)</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2">
+          <p>Defenseman Goligoski, Daley, and Klingberg are averaging the most time on ice, over 20 minutes a game. The majority of Stars
+            players play 12 to 16 minutes a game.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-1 y-align">
+        <p>Points</p>
+      </div>
+      <div class="col-lg-11 text-center">
+        <h4>Point total based on <strong>Total Time on Ice</strong>, Salary</h4>
+        <object type="image/svg+xml" data="./data/2015/salary-vs-points-TOI.svg" class="center-block">Your browser does not support SVG</object>
+        <p>Time on Ice (minutes)</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2">
+        <p>Defenseman Alex Goligoski leads in Games Played and Average Time on Ice, resulting in first in Total Time on Ice.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-1 y-align">
+        <p>Points</p>
+      </div>
+      <div class="col-lg-11 text-center">
+        <h4>Point total based on <strong>Age</strong>, Salary</h4>
+        <object type="image/svg+xml" data="./data/2015/salary-vs-points-Age.svg" class="center-block">Your browser does not support SVG</object>
+        <p>Age (Years)</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2">
+        <p>Rookie John Klingberg (22) leads the defense in points and carries great value at his age and current salary.</p>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="row">
+      <div class="col-lg-8">
+        <h2>Penalty Minutes vs. Games Played, Time On Ice</h2>
+        <p>The following scatterplot demonstrates <strong>Total Penalty Minutes</strong> vs. <strong>Total Games Played</strong>.<br>
+          The color and size of the dots demonstrates a third factor - <strong>Total Time on Ice</strong> (largest, darkest bubbles = highest TOI).</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-1 y-align">
+        <p>Penalty Minutes</p>
+      </div>
+      <div class="col-lg-11 text-center">
+        <h4>Penalty minutes by Games Played, Time on Ice</h4>
+        <object type="image/svg+xml" data="./data/2015/gp-vs-pim-TOI.svg" class="center-block">Your browser does not support SVG</object>
+        <p>Games Played</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2">
+          <p>Antoine Roussel is the Penalty Minute leader by a large margin.</p>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="row">
+      <div class="col-lg-12">
+        <h1>2015 Art Ross Trophy Race</h1>
+        <h2 class="lead">Examining how Dallas Stars captain Jamie Benn's won the Art Ross Trophy, given to the player with the most points (goals + assists) at the end of the NHL regular season, in the final seconds of the last game of the Stars regular season.</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-6">
+        <blockquote>
+          "Benn entered the final day of the regular season third in the League scoring race with 83 points, one behind Pittsburgh Penguins
+          forward Sidney Crosby and New York Islanders forward John Tavares. Benn moved to the front by tallying four points (3-1–4) in a 4-1
+          win over Nashville, including a goal and an assist in the final 2:05 of the third period. His late surge increased his season total
+          to 87 points (35-52--87), one more than Tavares (38-48–86)." <small class="pull-right"><a href="http://capitals.nhl.com/club/news.htm?id=762838" target="_blank">Source</a></small>
+        </blockquote>
+      </div>
+      <div class="col-lg-6">
+        <blockquote>
+          "Benn had three or more points in four of his past five games, and 12 goals and 23 points in 22 games. His final point – the one
+          that won him the scoring race – came on an assist with 8.5 seconds remaining in the Stars’ 4-1 victory over Nashville before a
+          sellout crowd of 18,532 at American Airlines Center." <small class="pull-right"><a href="http://stars.nhl.com/club/news.htm?id=762876" target="_blank">Source</a></small>
+        </blockquote>
+      </div>
+      <div class="col-lg-12">
+        <h4 class="text-center">2014/15 NHL Point Leaders, Full Season (82 games)</h4>
+        <div class="ptcontainer"></div>
+        <div id="tpoints"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <h4 class="text-center">2014/15 NHL Point Leaders, 2nd Half of Season (Games 42-82)</h4>
+        <div class="lmpts"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <blockquote>
+          "Benn, the first player in Stars history to win the scoring title, notched multiple points in five of his final six games
+            of the season (7-8–15), including 10 points in his last three contests. The Stars captain established career highs in
+            goals, assists and points, ahead of his previous highs of 34, 45 and 79, respectively, set in 2013-14." <small class="pull-right"><a href="http://capitals.nhl.com/club/news.htm?id=762838" target="_blank">Source</a></small>
+        </blockquote>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <h4 class="text-center">2014/15 NHL Goal Leaders, Full Season (82 games)</h4>
+        <div class="sec2container"></div>
+        <div id="goals"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <h4 class="text-center">2014/15 NHL Season Assist Leaders, Full Season (82 games)</h4>
+        <div class="assistleg"></div>
+        <div id="assists"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <h4 class="text-center">2014/15 NHL Goal and Assist Leaders, Full Season (82 games)</h4>
+        <div id="goalsassists"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <h4 class="text-center">Plus Minus (+/-)</h4>
+        <div class="pmcontainer"></div>
+        <div id="plusminus"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <h4 class="text-center">Shots on Net vs. Goals</h4>
+        <div class="svgcontainer"></div>
+        <div id="shotsgoals"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <h4 class="text-center">Benn's last game, all 4pts to win the Art Ross Trophy. Stars vs. Predators</h4>
+        <div class="videoWrapper">
+          <iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/uUTD9vjwnEg?vq=hd480" width="560" height="349" frameborder="0"></iframe>
+        </div>
+        <div class="videoWrapper">
+          <iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/TqyL6zoaVNk?vq=hd720" width="560" height="349" frameborder="0"></iframe>
+        </div>
+        <div class="videoWrapper">
+          <iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/rUv3ra9nhvM" width="560" height="349" frameborder="0"></iframe></div>
+      </div>
+    </div>
+  </div>
+</section>
+<div id="footer">
+  <div class="container">
+    <a href="http://www.hockey-reference.com/teams/DAL/2015.html">Stats from Hockey-Reference</a>
+  </div>
+</div>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/d3/5.12.0/d3.min.js' charset='utf-8'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.7.11/c3.min.js"></script>
+
+<!--<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>-->
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/highcharts-more.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="js/script.js"></script>
+
+</body>
+</html>
